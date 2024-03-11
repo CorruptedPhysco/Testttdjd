@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return '<h1>No</h1>'
+    return '<h1>Not</h1>'
